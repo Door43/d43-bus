@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bus:home|Door43 (bus)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bus|d43-bus repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bus/archive/master.zip|d43-bus.zip]]
+
+**Recent Changes**
+{{changes>ns = bus}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bus|Ethnologue data]]
+

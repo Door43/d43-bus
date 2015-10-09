@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/bus|Ethnologue data]]
 
-
 **Resources**
 
   * [[bus:obs|Open Bible Stories (bus)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:bus:obs:status}}
